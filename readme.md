@@ -2,9 +2,9 @@
 
 ```css
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #AE26E0;
+    --card-front-color: #7126E0;
+    --card-back-color: #2654E0;
 }
 ```
 > Para mais cores
